@@ -13,6 +13,6 @@
 * creat a html/css files
 --- 
 *** 
-[sad_face](public/assets/img1.png)
-[happy_face](public/assets/img1.png)
-[angry_face](public/assets/img1.png)
+[sad_face](public/assets/img2.png)
+[happy_face](public/assets/img3.png)
+[angry_face](public/assets/img4.png)
