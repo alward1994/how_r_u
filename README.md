@@ -5,3 +5,14 @@
 [The screen](public/assets/img1.png)
 ---
 ***
+# process of developing such a server .
+---
+* Pictures of faces with different emotions were collected in different files for each emotion(sad,happy,angry)
+* They were uploaded in different clases on the site (https://teachablemachine.withgoogle.com/train/image) in order to download the model of the server with url(https://teachablemachine.withgoogle.com/models/8llxABc8r/)
+* In Visual Studio code add all of models and creat a new js file to build server for game in (http://localhost:8000/) and download packages 
+* creat a html/css files
+--- 
+*** 
+[sad_face](public/assets/img1.png)
+[happy_face](public/assets/img1.png)
+[angry_face](public/assets/img1.png)
