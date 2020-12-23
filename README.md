@@ -13,6 +13,13 @@
 * creat a html/css files
 --- 
 *** 
+
+### The disadvantage of the game is that there is no huge data in order to get more accurate results and need to develop UN/IN 
+---
+#### examples
+
 [sad_face](public/assets/img2.png)
+---
 [happy_face](public/assets/img3.png)
+---
 [angry_face](public/assets/img4.png)
