@@ -15,6 +15,7 @@
 *** 
 
 ### The disadvantage of the game is that there is no huge data in order to get more accurate results and need to develop UN/IN 
+#### It's better if they are alot of photes for one face in differnt feeling. 
 ---
 #### examples
 
@@ -23,3 +24,5 @@
 [happy_face](public/assets/img4.png)
 ---
 [angry_face](public/assets/img2.png)
+---
+##### by Al-ward A.H.
